@@ -28,3 +28,5 @@
 
 [![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)]()
 [![Header](https://img.shields.io/badge/VK-090909?style=for-the-badge&logo=VK&logoColor=0073b1)](https://m.vk.com/diego585)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheonBaratheon&show_icons=true&theme=dark)
